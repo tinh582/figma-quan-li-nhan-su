@@ -71,7 +71,7 @@ export default defineConfig([
       reactX.configs['recommended-typescript'],
       // Enable lint rules for React DOM
       reactDom.configs.recommended,
-    ],
+    ],a
     languageOptions: {
       parserOptions: {
         project: ['./tsconfig.node.json', './tsconfig.app.json'],
